@@ -1,4 +1,4 @@
-# Databricks: de los datos a las decisiones
+# DATABRICKS
 
 Fundamentos de la plataforma Databricks y su aplicación al análisis de criticidad de la red de media tensión de CHEC.
 
